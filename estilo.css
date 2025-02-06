@@ -1,0 +1,15 @@
+.menu ul{
+      text-align: center;
+      border: green 2px;
+      display: inline-flex;
+      margin-left: 30%;
+      list-style-type: nome;
+}
+.menu li{
+    border: black 2px;
+    width: 100px;
+    font-size: 18px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+       
+}
